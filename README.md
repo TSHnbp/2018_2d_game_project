@@ -1,1 +1,1 @@
-# 2018_2d_game_project
+# 2018 2d game project - learn cpp
